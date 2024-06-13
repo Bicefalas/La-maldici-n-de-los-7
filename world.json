@@ -5,15 +5,13 @@
   "joinTheme": "default",
   "nextSession": "2024-04-26T15:30:00.000Z",
   "coreVersion": "12.327",
-  "url": "https://github.com/Bicefalas/La-maldici-n-de-los-7",
-  "download": "https://github.com/Bicefalas/La-maldici-n-de-los-7/archive/refs/heads/main.zip",
   "compatibility": {
     "minimum": "12",
     "verified": "12.327"
   },
   "systemVersion": "1.0.2",
-  "lastPlayed": "Thu Jun 13 2024 15:22:58 GMT+0200 (hora de verano de Europa central)",
-  "playtime": 12289,
+  "lastPlayed": "Thu Jun 13 2024 17:38:06 GMT+0200 (hora de verano de Europa central)",
+  "playtime": 18484,
   "packs": [
     {
       "label": "Roll Macro",
