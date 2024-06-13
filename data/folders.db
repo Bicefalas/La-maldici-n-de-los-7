@@ -1,0 +1,38 @@
+{"name":"Gaidos","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"1QcWNgF5b9wcTPL4"}
+{"_id":"2CKi1JxGTz7qFJRF","name":"Principal","type":"Actor","parent":"AeEbA7jgcCNWMY7t","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"_id":"3byepJIqVI0nInv6","name":"Team 9","type":"Actor","parent":null,"sorting":"a","sort":750000,"color":null,"flags":{}}
+{"name":"Piratas","type":"Scene","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"64Cwkn91aAz8ahjJ"}
+{"_id":"6Qd6oV1i3ysKjS3N","name":"Enemigos","type":"Actor","parent":"Leu13iCA7IQE0fNz","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"_id":"6fnQRREdrBWcvzRS","name":"Clase","type":"Actor","parent":null,"sorting":"a","sort":300000,"color":null,"flags":{}}
+{"name":"Templo int","type":"Scene","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"94RLMxzvnJvo9zy7"}
+{"name":"Pirata","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"AeEbA7jgcCNWMY7t"}
+{"_id":"DM5HOYO8CQVJBrSi","name":"Animales","type":"Actor","parent":null,"sorting":"a","sort":100000,"color":null,"flags":{}}
+{"name":"Academia","type":"Scene","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"Dok2tIbA9E1prqgJ"}
+{"_id":"FmKMwBq1xagmOXmw","name":"Profes","type":"Actor","parent":null,"sorting":"a","sort":600000,"color":null,"flags":{}}
+{"_id":"GeJ2YIfgbe3dOjMX","name":"Sueño","type":"Scene","parent":"O7GeuSWNfJW5YCro","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"_id":"LEHek4udupEYGbl9","name":"Nieve2","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"","flags":{}}
+{"_id":"Leu13iCA7IQE0fNz","name":"BadGuys","type":"Actor","parent":null,"sorting":"a","sort":1000000,"color":null,"flags":{}}
+{"_id":"LpGG84qZ3RGl4cUx","name":"Bosque Yamahaba","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"Poeta Ikimaru","type":"Scene","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"O7GeuSWNfJW5YCro"}
+{"name":"Kuro","type":"Actor","parent":"Leu13iCA7IQE0fNz","sorting":"a","sort":0,"color":null,"flags":{},"_id":"PFrY4mSzlR9bW3yp"}
+{"_id":"QE15QvEdN3BXCYXh","name":"Murcielago","type":"Scene","parent":null,"sorting":"m","sort":0,"color":"","flags":{}}
+{"name":"Desierto","type":"Scene","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"QvMZgLiopuIqDvzn"}
+{"_id":"RFBprhjDT7gkq3C7","name":"Team 8","type":"Actor","parent":null,"sorting":"a","sort":700000,"color":null,"flags":{}}
+{"name":"La Maldición de los 7","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"SQgivpnm70m5EVUW"}
+{"_id":"Sh2iOFSIGfYFurfy","name":"Yokai","type":"Actor","parent":null,"sorting":"a","sort":800000,"color":null,"flags":{}}
+{"name":"Murcielago","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"TkRzzBVNf8D2sNxH"}
+{"_id":"UZ8iaD31rfzvSQLB","name":"Bosque Feral","type":"Scene","parent":null,"sorting":"m","sort":0,"color":"","flags":{}}
+{"name":"Sueño","type":"Actor","parent":"giGOseXV5wFeVleM","sorting":"a","sort":0,"color":null,"flags":{},"_id":"W5TFATlwMf7rADhJ"}
+{"name":"Test catala","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"X5NJFIsHqNuVTuRy"}
+{"name":"Test Vasco","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"XHsLkh1jYsJ2D2iD"}
+{"name":"Aldeanos","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"Ya4v17DJdptxnkQL"}
+{"_id":"behW8cp16qKjer7D","name":"Malos","type":"Actor","parent":null,"sorting":"a","sort":500000,"color":null,"flags":{}}
+{"name":"Nieve","type":"Scene","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"bp5gDRu9LNhr5Io4"}
+{"name":"Misión 01-Ikimaru","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"giGOseXV5wFeVleM"}
+{"name":"Niños","type":"Actor","parent":"t5ZlSjaiv9rNIWTZ","sorting":"a","sort":0,"color":null,"flags":{},"_id":"h6Cdzti9WGb0Uctr"}
+{"name":"BadGuys","type":"Scene","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"hF434bK8bEl2WwNl"}
+{"name":"Nieve3","type":"Scene","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"lLM2MhPhCNmsEH8y"}
+{"_id":"ouUpkEv7CshDG6fJ","name":"Christmas","type":"Actor","parent":null,"sorting":"a","sort":200000,"color":null,"flags":{}}
+{"name":"Chirstmas","type":"Scene","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"rIVd4fZWdtU66sYY"}
+{"name":"Nieve","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"t5ZlSjaiv9rNIWTZ"}
+{"_id":"wZ6iUJnroYyfz02t","name":"Test chill","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"","flags":{}}
