@@ -1,0 +1,29 @@
+{
+  "title": "Shinobi - La maldición de los 7",
+  "id": "shinobi-la-maldicion-de-los-7",
+  "system": "shinobi",
+  "joinTheme": "default",
+  "nextSession": "2024-04-26T15:30:00.000Z",
+  "coreVersion": "12.327",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12.327"
+  },
+  "systemVersion": "1.0.2",
+  "lastPlayed": "Thu Jun 13 2024 15:22:58 GMT+0200 (hora de verano de Europa central)",
+  "playtime": 12289,
+  "packs": [
+    {
+      "label": "Roll Macro",
+      "type": "Macro",
+      "name": "roll-macro",
+      "path": "packs/roll-macro",
+      "system": "shinobi",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ]
+}
